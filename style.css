@@ -1,0 +1,36 @@
+p {
+
+}
+
+.description {
+    color: black;
+}
+
+.text4 {
+    color: red;
+}
+
+.text3 {
+    color: blue;
+}
+
+.text1 {
+    color: grey;
+
+}
+.text2 {
+}
+
+.firstbigbox{
+    display: flex;
+    margin-top: 30px;
+}
+
+.secondbigbox{
+    display: flex;
+}
+
+.logo{
+    margin-left: 5px;
+    margin-top: 30px;
+}
